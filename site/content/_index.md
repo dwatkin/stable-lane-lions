@@ -7,13 +7,4 @@ blurb:
   text: >-
     In the next few weeks we'll be updating this space with info on our
     lionheads.
-intro:
-  heading: ''
-  text: ''
-products:
-  - text: Bunnies. There will be bunnies here.
-values:
-  heading: ''
-  text: ''
----
 
